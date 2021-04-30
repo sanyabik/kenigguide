@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "223569768440",
+    "project_id": "kenigguide-d8331",
+    "storage_bucket": "kenigguide-d8331.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223569768440:android:631f8fbedc52828f50700d",
+        "android_client_info": {
+          "package_name": "com.kenigguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223569768440-1op2vlvkq7itkv9cj6i61o2gabpobm7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9x-YSv9Vwim8QToUrsagGlbv2L032zsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223569768440-1op2vlvkq7itkv9cj6i61o2gabpobm7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
